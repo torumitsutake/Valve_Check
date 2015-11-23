@@ -1,0 +1,14 @@
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.exe.config
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.exe.manifest
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.application
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.exe
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.pdb
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.csprojResolveAssemblyReference.cache
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.Form1.resources
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.LogForm.resources
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.Properties.Resources.resources
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.csproj.GenerateResource.Cache
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.exe.manifest
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.application
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.exe
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.pdb

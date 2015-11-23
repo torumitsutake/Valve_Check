@@ -1,4 +1,7 @@
+F:\デスクトップ\ValveChecker-ID3\SerialChecker\bin\Debug\SerialChecker.exe.config
 F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.exe.config
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.exe
+F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.pdb
 F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.exe.manifest
 F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.application
 F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\bin\Debug\SerialChecker.exe
@@ -10,5 +13,3 @@ F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChec
 F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.csproj.GenerateResource.Cache
 F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.exe.manifest
 F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.application
-F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.exe
-F:\マイドキュメント\Visual Studio 2015\Projects\SerialChecker\SerialChecker\obj\Debug\SerialChecker.pdb

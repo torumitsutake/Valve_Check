@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2nH0KvSsTmg3qlDTaT9zv2ww9KP/EnDAQD1mYg1+Ros=</dsig:DigestValue>
+        <dsig:DigestValue>UvNj8zRFbF/GcevxGegiZX82b/Ls3nuO3FS0FixWdj8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="SerialChecker.exe.config" size="184">
+  <file name="SerialChecker.exe.config" size="178">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1aU3cnO4tSNz1gKD8yHu5sOxbTa5IBAfqaGK+Ubeynk=</dsig:DigestValue>
+      <dsig:DigestValue>4EkccIjeh/4aUSqbCsO+2svLu///c9NhshbRerCgD9s=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
